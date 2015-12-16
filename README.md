@@ -2,7 +2,7 @@
 
 ##Demo
 
-Find a working demo here - (http://scottg1989.github.io/flickr-feed)[http://scottg1989.github.io/flickr-feed]
+Find a working demo here - [http://scottg1989.github.io/flickr-feed](http://scottg1989.github.io/flickr-feed)
 
 ##Installing for development
 
