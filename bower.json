@@ -1,0 +1,10 @@
+{
+  "name": "flickr-public-feed",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.8",
+    "angular-ui-router": "~0.2.15",
+    "font-awesome": "fontawesome#~4.5.0"
+  }
+}
